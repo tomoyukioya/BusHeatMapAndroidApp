@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BusHeatMap</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CellId">Cell ID：</string>
+    <string name="BsName">基地局名：</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="Button_HeatMap_Weighted">HeatMap\n(Weighted)</string>
+    <string name="Button_Mesh500m">Mesh\n500m</string>
+    <string name="Button_Mesh1k">Mesh\n1k</string>
+    <string name="Button_MeshAdaptive">Mesh\n可変</string>
+
+</resources>
